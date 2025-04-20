@@ -1,0 +1,15 @@
+# 仮想環境
+venv/
+env/
+.venv/
+.env/
+
+# Pythonのキャッシュファイル
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# ローカル設定
+.env
+.DS_Store
